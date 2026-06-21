@@ -1,0 +1,22 @@
+id,full_name,gender,class,status,contact,date_created,grade,remark
+ST001,John Kamara,Male,JSS1,Active,076123456,2026-01-05,72,Good
+ST002,Fatmata Sesay,Female,JSS2,Active,077234567,2026-01-12,88,Excellent
+ST003,Ibrahim Bangura,Male,SSS1,Inactive,078345678,2026-01-20,45,Needs Improvement
+ST004,Aminata Koroma,Female,JSS3,Active,079456789,2026-02-02,65,Good
+ST005,Mohamed Conteh,Male,SSS2,Pending,076567890,2026-02-10,58,Average
+ST006,Isatu Kargbo,Female,JSS1,Active,077678901,2026-02-15,91,Excellent
+ST007,Abubakarr Turay,Male,JSS2,Active,078789012,2026-02-22,77,Good
+ST008,Mariama Jalloh,Female,SSS3,Inactive,079890123,2026-03-01,39,Needs Improvement
+ST009,Sahr Koroma,Male,JSS3,Active,076901234,2026-03-08,82,Excellent
+ST010,Hawa Mansaray,Female,SSS1,Pending,077012345,2026-03-15,55,Average
+ST011,Alusine Fofana,Male,JSS1,Active,078123456,2026-03-20,68,Good
+ST012,Adama Bah,Female,JSS2,Active,079234567,2026-03-28,95,Excellent
+ST013,Yusuf Sankoh,Male,SSS2,Inactive,076345678,2026-04-02,42,Needs Improvement
+ST014,Memunatu Kanu,Female,JSS3,Active,077456789,2026-04-09,73,Good
+ST015,Foday Sesay,Male,SSS3,Active,078567890,2026-04-15,86,Excellent
+ST016,Zainab Conteh,Female,JSS1,Pending,079678901,2026-04-20,51,Average
+ST017,Lamin Jawara,Male,JSS2,Active,076789012,2026-04-25,79,Good
+ST018,Kadiatu Barrie,Female,SSS1,Active,077890123,2026-04-28,84,Excellent
+ST019,Mustapha Koroma,Male,SSS2,Inactive,078901234,2026-04-30,33,Needs Improvement
+ST020,Ramatu Sillah,Female,SSS3,Active,079012345,2026-04-30,62,GoodST021,Lennard Ben Kanu,Male,SSS3,Active,031675432,2026-06-17,95,Excellent
+ST021,Berick,Female,SSS3,Active,078234567,2026-06-18,9,Needs Improvement
