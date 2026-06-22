@@ -54,11 +54,7 @@ PROG103_FINALPROJECT_BSEM1203F_GROUP4/
 3. Make sure `login.py`, `dashboard.py`, and `students.csv` are in the same folder
 4. Run the application:
    ```
-   python login.py
-   ```
-5. Log in with:
-   - **Username:** admin
-   - **Password:** Admin1234
+   pytho
 
 ---
 
